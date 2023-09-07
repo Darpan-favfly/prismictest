@@ -1,0 +1,61 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"label": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Sunt commodo mollit id mollit sint tempor ea qui cupidatat consectetur sunt incididunt ex ad. Nostrud fugiat veniam pariatur id adipisicing ad. Commodo est ea eu sint est culpa anim excepteur qui sint ullamco id."
+						}
+					}
+				]
+			},
+			"link": {
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "http://twitter.com"
+				}
+			}
+		},
+		"items": []
+	},
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "navMenu",
+		"primary": {
+			"label": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Labore id cillum irure fugiat cupidatat. Quis dolore cupidatat incididunt. Aute aliquip magna irure amet eiusmod."
+						}
+					}
+				]
+			},
+			"link": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Tempor culpa veniam nulla consequat ipsum. Ullamco laboris minim incididunt adipisicing ad sint officia. Duis adipisicing qui nulla duis do aliqua."
+						}
+					}
+				]
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": []
+			}
+		]
+	}
+]
